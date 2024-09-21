@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #4f4f4f;
+    padding: 20px;
+}
+
+header {
+    background-color: #aca7a7;
+    color: rgb(7, 0, 0);
+    text-align: center;
+}
+
+
+
+
+nav ul li a {
+    color: rgb(148, 21, 21);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section {
+    background-color: rgb(239, 228, 205);
+    margin: 70px 0;
+    padding: 70px;  
+}
+
+h2 {
+    margin-bottom: 70px;
+}
+
+.job, .section p, .section ul {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-icons img {
+    width: 40px;
+    margin: 0 10px;
+}
+
+
